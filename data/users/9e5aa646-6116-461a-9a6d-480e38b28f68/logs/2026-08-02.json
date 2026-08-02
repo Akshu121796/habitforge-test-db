@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": "1d58df6a-b3d7-4761-9ddd-d1d87a6d6f4c",
+    "taskId": "a8561aa8-af8d-4803-8142-02b74f339a54",
+    "date": "2026-08-02",
+    "minutesSpent": 30,
+    "completed": false,
+    "notes": "Done with the backend, now for the testing and ui"
+  }
+]
